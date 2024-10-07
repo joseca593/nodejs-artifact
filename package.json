@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-api",
+  "version": "1.0.0",
+  "description": "A basic Node.js API project using CodeArtifact",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
